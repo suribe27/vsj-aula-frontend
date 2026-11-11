@@ -8,9 +8,9 @@ Proyecto de Aula — Desarrollo Web Full-Stack, semestre 2026-2.
 
 | Qué | URL |
 | --- | --- |
-| Sitio (Vercel) | `https://PENDIENTE.vercel.app` |
-| API (Railway) | `https://PENDIENTE.up.railway.app` |
-| Repositorio backend | `https://github.com/PENDIENTE/vsj-aula-backend` |
+| Sitio (Vercel) | https://vsj-aula-backend-production.up.railway.app|
+| API (Railway) |https://vsj-aula-frontend.vercel.app |
+| Repositorio backend | https://github.com/suribe27/vsj-aula-backend |
 
 ## Tecnologías
 
@@ -71,5 +71,5 @@ Cada feature separa `domain/` (tipos), `services/` (llamadas a la API), `hooks/`
 
 | Integrante | Qué construyó |
 | --- | --- |
-| Valery PENDIENTE | Configuración del proyecto y cliente HTTP, autenticación y sesión, protección de rutas, encuesta y panel de evaluaciones, landing y página 404, despliegue en Vercel |
-| PENDIENTE (tu nombre) | Catálogo y detalle de servicios, administración de servicios con subida de imagen, administración de categorías |
+| Valery Monsalve | Configuración del proyecto y cliente HTTP, autenticación y sesión, protección de rutas, encuesta y panel de evaluaciones, landing y página 404, despliegue en Vercel |
+| Samuel Uribe | Catálogo y detalle de servicios, administración de servicios con subida de imagen, administración de categorías |
